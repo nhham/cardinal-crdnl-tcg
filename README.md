@@ -5,7 +5,6 @@
 > **Type:** Market Intelligence Tool
 
 ## 🚀 About the Project
-Impact-Site-Verification: 56c9c858-23f2-4135-8ab7-08fb2a5f84ad 
 Cardinal CRDNL is a high velocity market analytics engine designed to solve the problem of **"Liquidity"** (how fast a card sells) rather than just **"Value"** (what a card is worth). For now, it will be a website and hopefully will expand to mobile devices.
 
 Unlike standard portfolio trackers that act as a "rear-view mirror," Cardinal CRDNL functions as a "windshield" for investors, utilizing a proprietary **Universal Adapter** to aggregate data from Pokémon, Magic: The Gathering, and Sports markets.
